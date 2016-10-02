@@ -6,6 +6,7 @@ export class Image {
     this.ordinal = ordinal;
     this.id = id;
 
+    // Callback function used to reorder Images in Gallery
     this.reorderImages = reorderImages;
   }
 

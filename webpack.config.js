@@ -11,7 +11,7 @@ var config = module.exports = {
   entry: {
     webpackDev: 'webpack/hot/only-dev-server',
     // The entry point for the application js i.e. './app/frontend/javascripts/app.js'
-    bundle: './scripts/bundle.js'
+    gallery: './scripts/gallery.js'
   }
 };
 
